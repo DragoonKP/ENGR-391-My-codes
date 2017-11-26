@@ -6,3 +6,4 @@
 - Use as reference to guide in case you need 
 
 -This is for the ENGR 391 -Numerical method class that will be usefull in a lot of engineering processes as we need to approximate complex value in real life. 
+- tutorial 6 - has codes from a book that was really usefull to understand what is going on 
